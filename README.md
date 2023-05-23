@@ -15,7 +15,7 @@ The original cross-KG datasets (FB15K-DB15K/YAGO15K) comes from [MMKB](https://g
 
 ### Bilingual datasets
 
-Here is the example of training MEAfe on `DBP15K`.
+Here is the example of training MEAFE on `DBP15K`.
 
 ```bash
 bash run_dbp15k.sh 0 42 zh_en
